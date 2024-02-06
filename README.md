@@ -1,0 +1,3 @@
+- 👋 Merhaba, Ben @AhmetEsatKAYA
+- 👀 Ben yazılım dillerinden c ve python ile, konulardan ardduino ve esp32 ile ilgileniyorum
+- 🌱 Ben şuan c++ ve pythonda nesne tanımayla ilgileniyorum
