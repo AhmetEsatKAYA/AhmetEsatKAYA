@@ -1,4 +1,4 @@
 - 👋 Esselamu Alekyüm ve Rahmetullahi Beraketüh, Ben @AhmetEsatKAYA
 - 👀 Ben yazılım dillerinden c ve python ile, konulardan arduino ve espressif kartlarıyla ile ilgileniyorum.
-- 🌱 Ben şuan c++ ve pythonda nesne tanımayla öğreniyorum.
+- 🌱 Ben şuan c++ ve pythonda  yapay zeka öğreniyorum.
 - 😃Beni takip ederseniz memmun olurum.
